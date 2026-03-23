@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את המועדון שמאגד אנשי מקצוע צעירים במקום אחד. נטוורקינג, אירועים ושייכות אמיתית — המקום שלנו הוא הבית החדש שלכם בעיר. הצטרפו עוד היום!
+
+### חברות
+https://example.com/membership
+חברות במועדון שלנו מעניקה לכם גישה לאירועים בלעדיים, קשרים מקצועיים ורשת תמיכה של אנשי מקצוע צעירים. בחרו את מסלול החברות שמתאים לכם והפכו לחלק מהקהילה.
+
+### אודות
+https://example.com/about
+המקום שלנו נולד מתוך חזון ברור: ליצור מרחב שבו אנשי מקצוע צעירים מתחברים, צומחים ומצליחים יחד. היכנסו לגלות את הערכים, האנשים והחלום שמניעים אותנו קדימה.
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה, רעיון או סתם רוצים לדעת יותר? צרו איתנו קשר עכשיו ונשמח לעזור. הצוות שלנו זמין עבורכם ומחכה לשמוע מכם — כי כל חבר חדש מתחיל בשיחה אחת.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
